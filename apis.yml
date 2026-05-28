@@ -1,0 +1,32 @@
+aid: geoscore
+name: GeoScore
+description: "Score content for AI search citation readiness. Returns a 0-100 GEO score, 8 structural metrics, and improvement fixes"
+url: https://geoscoreapi.com
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Text Analysis"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Text Analysis
+  - Public APIs
+apis:
+  - name: GeoScore
+    description: "Score content for AI search citation readiness. Returns a 0-100 GEO score, 8 structural metrics, and improvement fixes"
+    humanURL: https://geoscoreapi.com
+    baseURL: https://geoscoreapi.com
+    tags:
+      - Text Analysis
+    properties:
+      - type: Documentation
+        url: https://geoscoreapi.com
+common:
+  - type: Website
+    url: https://geoscoreapi.com
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
