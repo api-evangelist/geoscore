@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://geoscoreapi.com
 common:
+  - type: DomainSecurity
+    url: security/geoscore-domain-security.yml
   - type: Website
     url: https://geoscoreapi.com
   - type: PublicAPIsListing
