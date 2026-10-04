@@ -39,7 +39,6 @@ apis:
   - name: GeoScore
     description: "Score content for AI search citation readiness. Returns a 0-100 GEO score, 8 structural metrics, and improvement fixes"
     humanURL: https://geoscoreapi.com
-    baseURL: https://geoscoreapi.com
     tags:
       - Text Analysis
     properties:
